@@ -1,7 +1,7 @@
-Flask==0.12.2
+Flask==1.1.1
 line-bot-sdk==1.5.0
 beautifulsoup4==4.7.
 soupsieve==1.6.1
-urllib3==1.24.1
+urllib3==1.25.8
 lxml==4.3.4
 requests==2.22.0
